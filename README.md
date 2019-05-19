@@ -1,5 +1,5 @@
 
-![logo](varzesh3_logo.png)
+![logo](varzesh3-logo.png)
 
 ## ScreenShot
 

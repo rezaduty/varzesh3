@@ -1091,3 +1091,10 @@ clear: both;
 margin-right: 560px;
 text-align: justify;
   }
+
+
+
+
+.App{
+  text-align: right !important;
+}

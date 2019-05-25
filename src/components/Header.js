@@ -129,7 +129,7 @@ class Header extends React.Component {
                   className="page-search"
                   type="text"
                   name="searchkey"
-                  placeholder="\u062C\u0633\u062A\u062C\u0648\u06CC \u0627\u062E\u0628\u0627\u0631\u060C \u062A\u06CC\u0645 \u0647\u0627\u060C \u0628\u0627\u0632\u06CC\u06A9\u0646\u0627\u0646 \u0648 \u0648\u06CC\u062F\u06CC\u0648\u0647\u0627\u06CC \u0648\u0631\u0632\u0634\u06CC..."
+                  placeholder="..."
                   id="searchKey"
                 />
                 <button className="button">

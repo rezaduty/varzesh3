@@ -68,7 +68,7 @@ class App extends Component {
 			football_assistant={ <Football_Assistant_Right /> }
 			uefa_progrm={ <UEFA_Program_Right /> }
 			asia_cup={ <Asia_Cup_Right /> }
-			asia_champions={ <Asia_Cup_Right /> }
+			asia_champions={ <Asia_Champions_Right /> }
 
         />
 

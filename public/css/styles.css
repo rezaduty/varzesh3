@@ -1098,3 +1098,44 @@ text-align: justify;
 .App{
   text-align: right !important;
 }
+
+
+.owl-dots .owl-dot{
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+
+.owl-nav .owl-prev {
+    margin-left: 1px;
+    background-image: url(http://static2.farakav.com/varzesh3/assets/img/sheet/fns-sprite.png);
+    background-repeat: no-repeat;
+    padding-bottom: 19px;
+    padding-right: 19px;
+    color: inherit;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+
+.owl-nav .owl-next {
+    float: right;
+    background-position: -32px -3px;
+    float: right;
+    background-image: url(http://static2.farakav.com/varzesh3/assets/img/sheet/fns-sprite.png);
+    background-repeat: no-repeat;
+    padding-bottom: 19px;
+    padding-right: 19px;
+    color: inherit;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    margin-right: 10px !important;
+}

@@ -72,7 +72,7 @@ class Header extends React.Component {
             </div>
             <div className="header-logo-left">
               <a href="#" target="_blank" rel="nofollow noopener">
-                <img width={468} height={60} alt src="imgs/00910312.gif" />{" "}
+                <img width={468} height={60} alt="" src="imgs/00910312.gif" />{" "}
               </a>
             </div>
           </div>

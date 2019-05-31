@@ -14,7 +14,7 @@ class Right extends React.Component {
               <img
                 width={257}
                 height={80}
-                alt
+                alt=""
                 src="https://static.farakav.com/v3/static/bpx/00910859.gif"
               />
             </a>
@@ -27,7 +27,7 @@ class Right extends React.Component {
               <img
                 width={257}
                 height={80}
-                alt
+                alt=""
                 src="https://static.farakav.com/v3/static/bpx/00910837.gif"
               />
             </a>
@@ -208,7 +208,7 @@ class Right extends React.Component {
             >
               <img
                 width={257}
-                alt
+                alt=""
                 src="http://static1.varzesh3.com/files/ads/00906087.gif"
               />
             </a>
@@ -220,7 +220,7 @@ class Right extends React.Component {
             >
               <img
                 width={257}
-                alt
+                alt=""
                 src="http://static1.varzesh3.com/files/ads/00906090.gif"
               />
             </a>
@@ -275,7 +275,7 @@ class Right extends React.Component {
                         <td className="text-center">24</td>
                         <td className="text-center">56</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>2</td>
                         <td className="text-center">تراکتورسازی</td>
                         <td className="text-center">24</td>
@@ -287,7 +287,7 @@ class Right extends React.Component {
                         <td className="text-center">24</td>
                         <td className="text-center">44</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>4</td>
                         <td className="text-center">ذوب آهن</td>
                         <td className="text-center">24</td>
@@ -299,7 +299,7 @@ class Right extends React.Component {
                         <td className="text-center">24</td>
                         <td className="text-center">33</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>6</td>
                         <td className="text-center">استقلال خوزستان</td>
                         <td className="text-center">24</td>
@@ -311,7 +311,7 @@ class Right extends React.Component {
                         <td className="text-center">24</td>
                         <td className="text-center">32</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>8</td>
                         <td className="text-center">پیکان</td>
                         <td className="text-center">24</td>
@@ -323,7 +323,7 @@ class Right extends React.Component {
                         <td className="text-center">24</td>
                         <td className="text-center">31</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>10</td>
                         <td className="text-center">فولاد</td>
                         <td className="text-center">24</td>
@@ -335,7 +335,7 @@ class Right extends React.Component {
                         <td className="text-center">24</td>
                         <td className="text-center">28</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>12</td>
                         <td className="text-center">سایپا</td>
                         <td className="text-center">24</td>
@@ -347,7 +347,7 @@ class Right extends React.Component {
                         <td className="text-center">24</td>
                         <td className="text-center">25</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>14</td>
                         <td className="text-center">صبای قم</td>
                         <td className="text-center">24</td>
@@ -359,7 +359,7 @@ class Right extends React.Component {
                         <td className="text-center">24</td>
                         <td className="text-center">19</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>16</td>
                         <td className="text-center">ماشین‌سازی‌تبریز</td>
                         <td className="text-center">24</td>
@@ -1311,7 +1311,7 @@ class Right extends React.Component {
                         <td className="text-center">7</td>
                         <td className="text-center">16</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>2</td>
                         <td className="text-center">عربستان</td>
                         <td className="text-center">7</td>
@@ -1323,7 +1323,7 @@ class Right extends React.Component {
                         <td className="text-center">7</td>
                         <td className="text-center">13</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>4</td>
                         <td className="text-center">امارات</td>
                         <td className="text-center">7</td>
@@ -1335,7 +1335,7 @@ class Right extends React.Component {
                         <td className="text-center">7</td>
                         <td className="text-center">4</td>
                       </tr>
-                      <tr className="alt">
+                      <tr className="" alt="">
                         <td>6</td>
                         <td className="text-center">تایلند</td>
                         <td className="text-center">7</td>
@@ -1366,7 +1366,7 @@ class Right extends React.Component {
             >
               <img
                 width={257}
-                alt
+                alt=""
                 src="http://static1.varzesh3.com/files/ads/00905972.gif"
               />
             </a>

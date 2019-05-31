@@ -68,7 +68,7 @@ class Center extends React.Component {
                             <img
                               width={240}
                               height={160}
-                              src="https://static.farakav.com/files/pictures/01409747.jpg?h=192"
+                              src="https://static.farakav.com/v3/static/bpx/00910849.gif"
                               alt=""
                             />
                           </a>

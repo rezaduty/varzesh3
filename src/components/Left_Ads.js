@@ -2,7 +2,7 @@ import React from "react";
 
 
 const API = 'https://sample.api.com/api/';
-const DEFAULT_QUERY = 'redux';
+const DEFAULT_QUERY = 'ads';
 
 class Left_Ads extends React.Component {
 
